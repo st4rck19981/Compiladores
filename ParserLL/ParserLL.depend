@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625858824 source:c:\users\jeferson poma\documents\unsa\2021-a\compiladores\trabajos 1\parserll\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<map>
+	<stack>
+
